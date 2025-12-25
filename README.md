@@ -5,7 +5,7 @@ It showcases my projects, skills, and contact information with a clean
 and professional UI.
 
 ## Live Demo
-https://YOUR-LIVE-LINK-HERE
+https://afjal-portfolio.netlify.app/
 
 ## Tech Stack
 - React
